@@ -1,6 +1,6 @@
 # Digital Scholarship Portfolio: Brenda Garlow
 
-![](image link here)
+![](https://www.facebook.com/photo.php?fbid=3338215596205873&set=pb.100000523971107.-2207520000..&type=3)
 
 Welcome to my online portfolio for IASC 2P02!
 
