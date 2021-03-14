@@ -1,6 +1,6 @@
 # Digital Scholarship Portfolio: Brenda Garlow
 
-![https://github.com/bg14ff/IASC-2P02/blob/main/head%20shot.png](head shot.png)
+![](head shot.png)
 
 Welcome to my online portfolio for IASC 2P02!
 
